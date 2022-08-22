@@ -109,10 +109,3 @@ greet('Marcus');
 
 // console.log(sumA(5, 852));  
 // console.log(sumB(-58, 26));
-
-  
-    
-
-
-
-
