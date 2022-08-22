@@ -6,7 +6,7 @@ greet('Marcus');
 
 
 
-// function sum (num1, num2) {  // decloration 2
+// function sum (num1, num2) {  // decloration  - 2
 //     console.log(num1 + num2);
 // }
 
