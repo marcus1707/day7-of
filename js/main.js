@@ -1,4 +1,4 @@
-function greet(name) {      // decloration 1
+function greet(name) {      // decloration  - 1
     console.log("Hello " + name + "");
 }
 
