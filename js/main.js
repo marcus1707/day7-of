@@ -99,7 +99,7 @@ greet('Marcus');
 
 
 
-// function sumA(a, b) {   //  expression 5
+// function sumA(a, b) {   //  expression - 5
 //     return a + b;
 // }
 
